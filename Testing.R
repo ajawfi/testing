@@ -6,3 +6,5 @@ print("Hello world")
 
 
 Print("Hi")
+
+Print("LO")
